@@ -1,4 +1,5 @@
-Ingredients:
+# Cocoa Cake
+## Ingredients
  - 2 cups sugar
  - 1 3/4 cups all-purpose flour
  - 3/4 cup cocoa
@@ -11,7 +12,7 @@ Ingredients:
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
-Directions:
+## Directions
  1. Preheat oven to 350 degrees F. Grease and flour two 9-inch round baking
     pans.
  
