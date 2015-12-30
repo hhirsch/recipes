@@ -1,4 +1,4 @@
-# Frosting
+# Cocoa Vanilla Frosting
 
 ## Ingredients
  - 1/2 cup butter
