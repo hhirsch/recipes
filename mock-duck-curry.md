@@ -20,7 +20,6 @@
 - Put Seitan in flour and afterwards in the seasoning.
 - Put the seasoned Seitan in a pan with oil and let it brown while turning regularly.
 - Put aside.
-
 - Put Curry in a bowl
 - Cut Seitan in Slices and add to the bowl, put some sauce on it
 
