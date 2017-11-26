@@ -1,5 +1,5 @@
 # Mock-Duck Curry
-## Ingredients:
+## Ingredients
 
 - Seitan (ready made or Seitan-Fix)
 - Seasoning (oil, thyme, garlic, salt, pepper, paprika powder)
@@ -10,13 +10,13 @@
 - Rice or potatoes
 
 
-### Curry:
+### Curry
 - Stir garlic, ginger and onions in oil
 - Add vegetables and let it stew while regurlary stirring
 - Add coconut milk and curry paste ( I use Cock Brand Red Curry)
 - Let it simmer until done
 
-### Seitan:
+### Seitan
 - Put Seitan in flour and afterwards in the seasoning.
 - Put the seasoned Seitan in a pan with oil and let it brown while turning regularly.
 - Put aside.
