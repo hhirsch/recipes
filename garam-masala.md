@@ -2,7 +2,7 @@
 
 ## Ingredients
 - garam masala
-- tumeric
+- turmeric
 - chilly
 - onions
 - garlic
@@ -12,7 +12,7 @@
 
 ## Directions
 - We heat the oil then fry onions, garlic and ginger.
-- Add tumeric, Chilly
+- Add turmeric, Chilly
 - Add garam masala
 - Add vegetables, eggs, whatever you like
 - Add Boiled Rice
